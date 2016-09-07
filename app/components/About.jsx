@@ -2,7 +2,7 @@ var React = require('react');
 var About = () =>{
   return(
   <div>
-    <h1 className="text-center">About Weather App</h1>
+    <h1 className="text-center page-title">About Weather App</h1>
     <p>React Weather App allows users to search weather by City Name, Currently it returns weather in cellis degree, This App is developed using following technologies</p>
     <ol>
       <li><a href="https://facebook.github.io/react/">React</a> Javascript Framework</li>

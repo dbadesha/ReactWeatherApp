@@ -4,7 +4,7 @@ var {Link}= require('react-router');
 var Examples = ()=> {
   return(
   <div>
-    <h1 className="text-center">Examples</h1>
+    <h1 className="text-center page-title">Examples</h1>
     <p>Following are few example city for weather serach</p>
     <ul>
       <li><Link to ='/?location=San Franscisco'> San Francisco, CA</Link></li>

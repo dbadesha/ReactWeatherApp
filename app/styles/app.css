@@ -1,0 +1,11 @@
+.page-title{
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.input[type="search"]{
+  box-shadow: none;
+}
+.form-space{
+  margin:0rem;
+}
