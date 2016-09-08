@@ -9,3 +9,4 @@ This is React Component Based, Helps user to find weather in various city
 - Use OpenWeather API
 
 [Try it](http://arcane-oasis-49232.herokuapp.com/)
+![Alt text](/images/App.png?raw=true "Title")
